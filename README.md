@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NABILJAK
 - 👀 I’m interested in coding and data science
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
